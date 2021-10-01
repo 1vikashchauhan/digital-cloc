@@ -1,13 +1,4 @@
 
-*{ margin: 0; padding: 0;}
-body{
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 300;
-
-  font-size: 15px;
-  background: #eee;
-}
 .clockdate-wrapper {
     background: blue;  
    
